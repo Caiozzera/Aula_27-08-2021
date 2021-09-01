@@ -17,7 +17,7 @@ class main:
             print("Aumentar Limite - 3          |")
             print("Realizar Depósito - 4        |")
             print("Realizar Saque - 5           |")
-            print("Listar Contas - 6           |")
+            print("Listar Contas - 6            |")
             print("Sair do Menu - 99            |")
             print("------------------------------")
             menu = input("informe a opção desejada: ")
