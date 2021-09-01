@@ -4,4 +4,4 @@ class Disco:
         self.nome = ''
         self.artista = ''
         self.ano = ''
-        self.gênero = ''
+        self.genero = ''
